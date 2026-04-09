@@ -68,3 +68,11 @@ Ideal for recruiters, HR systems, and automation tools for filtering large volum
 ## 📬 Author
 
 Prateek Yadav
+
+## 📸 Screenshots
+
+### Upload Page
+![Upload](screenshots/upload.png)
+
+### Result Page
+![Result](screenshots/result.png)
