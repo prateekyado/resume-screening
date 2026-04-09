@@ -1,4 +1,4 @@
-# Resume Screening App (AI-Powered)
+# Resume Screening App
 
 An intelligent resume screening system that leverages **Natural Language Processing (NLP)** to match resumes with job descriptions using **TF-IDF vectorization and cosine similarity**.
 
